@@ -1,9 +1,20 @@
-# Product_Rollout_Impact_Evaluation
+# Product Rollout Impact Evaluation
 
 ## Purpose
 Estimate the **causal impact** of a staged product/feature rollout using production-grade econometric methods, and translate the results into a clear **Go / No-Go** decision.
 
 This analysis mirrors how economists evaluate real-world rollouts in high-stakes marketplace and platform settings.
+
+---
+
+### Causal Impact Evaluation
+
+This repository includes an end-to-end causal analysis of a staged product or
+feature rollout using Difference-in-Differences and event-study methods.
+
+**Key analysis:**
+- `notebook/01_rollout_did_eventstudy.ipynb`: DiD and event-study evaluation with
+  pre-trend validation and Go / No-Go decision framing.
 
 ---
 
