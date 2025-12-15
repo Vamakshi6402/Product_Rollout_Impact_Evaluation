@@ -18,7 +18,7 @@ This analysis mirrors how economists evaluate real-world rollouts in high-stakes
 - Outcome measured consistently before and after rollout
 - Includes never-treated units as controls
 
-(Data is synthetically generated to reflect realistic rollout dynamics.)
+Data is synthetically generated to mirror realistic rollout behavior and estimation challenges encountered in production settings.
 
 ---
 
@@ -103,5 +103,6 @@ This repository demonstrates the ability to:
 - Validate assumptions explicitly
 - Communicate results as actionable business decisions
 
-This is the core workflow used by economists operating in production environments.
+This is the core workflow used by economists operating in production environments. The emphasis is on reasoning, validation, and decision quality rather than tooling or model complexity.
+
 
