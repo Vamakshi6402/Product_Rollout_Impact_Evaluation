@@ -70,9 +70,9 @@ Files generated:
 ---
 
 ## Results Summary
-- **ATT:** Positive and statistically significant  
-- **Pre-trends:** Flat and statistically insignificant  
-- **Dynamics:** Treatment effects emerge post-rollout and persist over time
+- ATT: Positive and statistically significant, indicating a meaningful causal effect.
+- Pre-trends: Statistically indistinguishable from zero, supporting the parallel trends assumption.
+- Dynamics: Treatment effects emerge post-rollout and persist over time.
 
 (Exact estimates available in `att_table.csv`.)
 
