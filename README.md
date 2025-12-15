@@ -86,7 +86,7 @@ The rollout demonstrates a **credible, causal improvement** in outcomes, support
 - No evidence of pre-trend violations
 - Stable post-treatment effects
 
-Recommendation: ** Please go ahead with the full rollout** and keep monitoring via standard KPI dashboards.
+**Recommendation:** Proceed with full rollout and continue monitoring via standard KPI dashboards.
 
 ---
 
